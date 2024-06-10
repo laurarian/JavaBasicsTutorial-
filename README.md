@@ -1,2 +1,2 @@
-# JavaBasicsTutorial-
+# JavaBasicsTutorial
 韩顺平30天Java基础教程笔记与代码。适合初学者快速掌握Java基础，包括B站视频教程的详细笔记和实用代码示例。帮助你从零开始学习Java，适合所有希望深入了解Java编程的用户。
